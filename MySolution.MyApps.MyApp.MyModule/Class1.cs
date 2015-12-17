@@ -10,7 +10,7 @@ namespace MySolution.MyApps.MyApp.MyModule
     {
         public static int Sum(int a, int b)
         {
-            int c;
+            int c = 0;
 
             c = a + b;
             return c;
